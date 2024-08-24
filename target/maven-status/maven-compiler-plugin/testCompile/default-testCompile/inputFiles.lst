@@ -1,0 +1,12 @@
+C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\baseTest\BaseClass.java
+C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\pageObjects\basePage.java
+C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\pageObjects\homePage.java
+C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\pageObjects\LoginPage.java
+C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\pageObjects\MyAccount.java
+C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\pageObjects\registerPage.java
+C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\testCases\TC001_AccountRegistrationTest.java
+C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\testCases\TC002_LoginTest.java
+C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\testCases\TC003_LoginDDT.java
+C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\utilities\DataProviders.java
+C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\utilities\ExcelUtility.java
+C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\utilities\ExtentReportManager.java
