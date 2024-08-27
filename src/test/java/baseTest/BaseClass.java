@@ -1,6 +1,7 @@
 package baseTest;
 
 import java.io.File;
+
 import java.io.FileReader;
 import java.io.IOException;
 import java.net.URL;
@@ -41,6 +42,7 @@ public class BaseClass {
 		
 		p1.load(file);
 		
+		
 		logger=LogManager.getLogger(this.getClass()); //log4j2 to load the loag4j2 file into project
 		
 		// **********  execution from REMOTE ENV **********
@@ -61,12 +63,16 @@ public class BaseClass {
 		{
 			cap.setPlatform(Platform.LINUX);
 		}
-		else 
+		else if(os.equalsIgnoreCase("mac"))
 		{
 		
+			cap.setPlatform(Platform.MAC);
+			
+		}
+		else {
 			System.out.println("Invalid OS");
 			return;
-			
+
 		}
 		
 		//browser
@@ -78,7 +84,7 @@ public class BaseClass {
 		default: System.out.println("Invalid Browser");return;
 		}
 		
-		driver=new RemoteWebDriver(new URL("http://192.168.47.5:4444"),cap);
+		driver=new RemoteWebDriver(new URL("http://192.168.78.5:4444"),cap);
 		
 		}
 		

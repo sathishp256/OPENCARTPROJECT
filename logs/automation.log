@@ -1,0 +1,121 @@
+2024-08-27 18:08:592 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Hp\AppData\Local\Temp\testng-eclipse-1117683421\testng-customsuite.xml"
+2024-08-27 18:08:80 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-08-27 18:08:86 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-08-27 18:08:95 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-27 18:08:95 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-27 18:08:98 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-27 18:08:99 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-27 18:08:101 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-27 18:08:102 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-27 18:08:112 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2024-08-27 18:08:137 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 22 ms.
+2024-08-27 18:08:140 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-27 18:08:142 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-27 18:08:143 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-27 18:08:144 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-27 18:08:146 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-27 18:08:147 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-27 18:08:150 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-27 18:08:150 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-27 18:08:152 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-27 18:08:152 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-27 18:08:157 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-27 18:08:157 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-27 18:08:158 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-27 18:08:158 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-27 18:08:160 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-27 18:08:161 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-08-27 18:08:163 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-27 18:08:164 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-27 18:08:164 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-27 18:08:164 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-27 18:08:179 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Hp\AppData\Local\Temp\testng-eclipse-1117683421\testng-customsuite.xml
+
+2024-08-27 18:08:220 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2024-08-27 18:08:810 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@7adf16aa: 306 ms
+2024-08-27 18:08:854 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@1ce61929: 40 ms
+2024-08-27 18:08:898 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@19fe4644: 41 ms
+2024-08-27 18:08:939 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@34a75079: 39 ms
+2024-08-27 18:08:966 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@482d776b: 27 ms
+2024-08-27 18:08:968 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4052274f: 0 ms
+2024-08-27 18:08:248 DEBUG TestNG:82 - suiteXmlPath: "C:\Eclipse Java Practice\OPENCARTPROJECT\master.xml"
+2024-08-27 18:08:749 INFO  Utils:112 - [TestNG] Running:
+  C:\Eclipse Java Practice\OPENCARTPROJECT\master.xml
+
+2024-08-27 18:08:844 DEBUG TestNG:82 - suiteXmlPath: "C:\Eclipse Java Practice\OPENCARTPROJECT\master.xml"
+2024-08-27 18:08:423 INFO  Utils:112 - [TestNG] Running:
+  C:\Eclipse Java Practice\OPENCARTPROJECT\master.xml
+
+2024-08-27 18:08:883 DEBUG TestNG:82 - suiteXmlPath: "C:\Eclipse Java Practice\OPENCARTPROJECT\master.xml"
+2024-08-27 18:08:430 INFO  Utils:112 - [TestNG] Running:
+  C:\Eclipse Java Practice\OPENCARTPROJECT\master.xml
+
+2024-08-27 18:08:698 INFO  TC001_AccountRegistrationTest:18 - **** Starting TC001*****
+2024-08-27 18:08:776 INFO  TC001_AccountRegistrationTest:24 - **** Regisrtation page opened *****
+2024-08-27 18:08:785 INFO  TC001_AccountRegistrationTest:28 - **** Filling customer details *****
+2024-08-27 18:08:924 INFO  TC001_AccountRegistrationTest:39 - **** validating expected message *****
+2024-08-27 18:08:03 INFO  TC001_AccountRegistrationTest:63 - **** Finsihed TC001 ***
+2024-08-27 18:08:87 INFO  TC002_LoginTest:18 - ***** Starting TC002 Execution****
+2024-08-27 18:08:701 INFO  TC002_LoginTest:25 - **** LOGIN PAGE OPENED*****
+2024-08-27 18:08:569 INFO  TC002_LoginTest:33 - ****Login Sucessful****
+2024-08-27 18:08:570 INFO  TC002_LoginTest:46 - **** Test Execution Completed ****
+2024-08-27 18:08:710 DEBUG TestNG:82 - suiteXmlPath: "C:\Eclipse Java Practice\OPENCARTPROJECT\master.xml"
+2024-08-27 18:08:244 INFO  Utils:112 - [TestNG] Running:
+  C:\Eclipse Java Practice\OPENCARTPROJECT\master.xml
+
+2024-08-27 18:08:717 INFO  TC001_AccountRegistrationTest:18 - **** Starting TC001*****
+2024-08-27 18:08:573 DEBUG TestNG:82 - suiteXmlPath: "C:\Eclipse Java Practice\OPENCARTPROJECT\master.xml"
+2024-08-27 18:08:98 INFO  Utils:112 - [TestNG] Running:
+  C:\Eclipse Java Practice\OPENCARTPROJECT\master.xml
+
+2024-08-27 18:08:900 INFO  TC001_AccountRegistrationTest:18 - **** Starting TC001*****
+2024-08-27 18:08:420 INFO  TC001_AccountRegistrationTest:24 - **** Regisrtation page opened *****
+2024-08-27 18:08:432 INFO  TC001_AccountRegistrationTest:28 - **** Filling customer details *****
+2024-08-27 18:08:471 INFO  TC001_AccountRegistrationTest:39 - **** validating expected message *****
+2024-08-27 18:08:551 INFO  TC001_AccountRegistrationTest:63 - **** Finsihed TC001 ***
+2024-08-27 18:08:765 INFO  TC002_LoginTest:18 - ***** Starting TC002 Execution****
+2024-08-27 18:08:514 INFO  TC002_LoginTest:25 - **** LOGIN PAGE OPENED*****
+2024-08-27 18:08:996 INFO  TC002_LoginTest:33 - ****Login Sucessful****
+2024-08-27 18:08:997 INFO  TC002_LoginTest:46 - **** Test Execution Completed ****
+2024-08-27 18:08:773 DEBUG TestNG:82 - suiteXmlPath: "C:\Eclipse Java Practice\OPENCARTPROJECT\grid.xml"
+2024-08-27 18:08:720 INFO  Utils:112 - [TestNG] Running:
+  C:\Eclipse Java Practice\OPENCARTPROJECT\grid.xml
+
+2024-08-27 18:08:102 INFO  TC001_AccountRegistrationTest:18 - **** Starting TC001*****
+2024-08-27 18:08:306 INFO  TC001_AccountRegistrationTest:24 - **** Regisrtation page opened *****
+2024-08-27 18:08:314 INFO  TC001_AccountRegistrationTest:28 - **** Filling customer details *****
+2024-08-27 18:08:579 INFO  TC001_AccountRegistrationTest:39 - **** validating expected message *****
+2024-08-27 18:08:789 INFO  TC001_AccountRegistrationTest:63 - **** Finsihed TC001 ***
+2024-08-27 18:08:63 INFO  TC002_LoginTest:18 - ***** Starting TC002 Execution****
+2024-08-27 18:08:776 INFO  TC002_LoginTest:25 - **** LOGIN PAGE OPENED*****
+2024-08-27 18:08:863 INFO  TC002_LoginTest:33 - ****Login Sucessful****
+2024-08-27 18:08:863 INFO  TC002_LoginTest:46 - **** Test Execution Completed ****
+2024-08-27 18:08:804 DEBUG TestNG:82 - suiteXmlPath: "C:\Eclipse Java Practice\OPENCARTPROJECT\grid.xml"
+2024-08-27 18:08:838 INFO  Utils:112 - [TestNG] Running:
+  C:\Eclipse Java Practice\OPENCARTPROJECT\grid.xml
+
+2024-08-27 19:08:254 DEBUG TestNG:82 - suiteXmlPath: "C:\Eclipse Java Practice\OPENCARTPROJECT\master.xml"
+2024-08-27 19:08:624 INFO  TC001_AccountRegistrationTest:18 - **** Starting TC001*****
+2024-08-27 19:08:710 DEBUG TestNG:82 - suiteXmlPath: "C:\Eclipse Java Practice\OPENCARTPROJECT\master.xml"
+2024-08-27 19:08:898 INFO  TC001_AccountRegistrationTest:18 - **** Starting TC001*****
+2024-08-27 19:08:369 DEBUG TestNG:82 - suiteXmlPath: "C:\Eclipse Java Practice\OPENCARTPROJECT\master.xml"
+2024-08-27 19:08:990 INFO  TC001_AccountRegistrationTest:18 - **** Starting TC001*****
+2024-08-27 19:08:960 INFO  TC001_AccountRegistrationTest:24 - **** Regisrtation page opened *****
+2024-08-27 19:08:966 INFO  TC001_AccountRegistrationTest:28 - **** Filling customer details *****
+2024-08-27 19:08:20 INFO  TC001_AccountRegistrationTest:39 - **** validating expected message *****
+2024-08-27 19:08:97 INFO  TC001_AccountRegistrationTest:63 - **** Finsihed TC001 ***
+2024-08-27 19:08:236 INFO  TC002_LoginTest:18 - ***** Starting TC002 Execution****
+2024-08-27 19:08:872 INFO  TC002_LoginTest:25 - **** LOGIN PAGE OPENED*****
+2024-08-27 19:08:398 INFO  TC002_LoginTest:33 - ****Login Sucessful****
+2024-08-27 19:08:398 INFO  TC002_LoginTest:46 - **** Test Execution Completed ****
+2024-08-27 19:08:640 DEBUG TestNG:82 - suiteXmlPath: "C:\Eclipse Java Practice\OPENCARTPROJECT\master.xml"
+2024-08-27 19:08:661 INFO  TC001_AccountRegistrationTest:18 - **** Starting TC001*****
+2024-08-27 19:08:899 INFO  TC001_AccountRegistrationTest:24 - **** Regisrtation page opened *****
+2024-08-27 19:08:904 INFO  TC001_AccountRegistrationTest:28 - **** Filling customer details *****
+2024-08-27 19:08:946 INFO  TC001_AccountRegistrationTest:39 - **** validating expected message *****
+2024-08-27 19:08:18 INFO  TC001_AccountRegistrationTest:63 - **** Finsihed TC001 ***
+2024-08-27 19:08:523 INFO  TC002_LoginTest:18 - ***** Starting TC002 Execution****
+2024-08-27 19:08:56 INFO  TC002_LoginTest:25 - **** LOGIN PAGE OPENED*****
+2024-08-27 19:08:799 INFO  TC002_LoginTest:33 - ****Login Sucessful****
+2024-08-27 19:08:800 INFO  TC002_LoginTest:46 - **** Test Execution Completed ****

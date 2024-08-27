@@ -10,7 +10,7 @@
 </listeners>
 <test thread-count="5" name="Test1">
   
-  <parameter name="os" value="linux"/>
+  <parameter name="os" value="windows"/>
   <parameter name="browser" value="chrome"/>
   
     <classes>

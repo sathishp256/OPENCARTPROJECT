@@ -1,5 +1,6 @@
 baseTest\BaseClass.class
 pageObjects\MyAccount.class
+testCases\TC003_Sample.class
 utilities\ExcelUtility.class
 pageObjects\homePage.class
 pageObjects\basePage.class

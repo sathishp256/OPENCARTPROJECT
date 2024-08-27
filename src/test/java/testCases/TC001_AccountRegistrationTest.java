@@ -13,6 +13,7 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 	@Test(groups= {"Master","Regression"})
 	public void test_account_registration() {
 		
+		
 		try {
 		logger.info("**** Starting TC001*****");
 		
