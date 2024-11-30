@@ -21,7 +21,7 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 		homePage hm=new homePage(driver);
 		hm.clickMyAccount();
 		hm.clickRegister();
-		logger.info("**** Regisrtation page opened *****");
+		logger.info("**** Regisrtation page opened ********");
 		
 		
 		registerPage rp=new registerPage(driver);
@@ -41,6 +41,7 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 		
 		System.out.println(msg);
 		
+		logger.info("*** Login Suucess ***");
 		if(msg.equals("Your Account Has Been Created!"))
 		{
 			Assert.assertTrue(true);

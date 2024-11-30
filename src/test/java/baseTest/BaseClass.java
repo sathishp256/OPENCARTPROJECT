@@ -40,6 +40,7 @@ public class BaseClass {
 		FileReader file=new FileReader("./src//test//resources//config.properties");
 		p1=new Properties();
 		
+		
 		p1.load(file);
 		
 		
@@ -84,7 +85,9 @@ public class BaseClass {
 		default: System.out.println("Invalid Browser");return;
 		}
 		
-		driver=new RemoteWebDriver(new URL("http://192.168.78.5:4444"),cap);
+		driver=new RemoteWebDriver(new URL("http://172.21.32.1:4444"),cap);
+
+
 		
 		}
 		

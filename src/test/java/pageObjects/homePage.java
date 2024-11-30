@@ -21,7 +21,6 @@ WebElement lnkRegister;
 WebElement login;
 
 
-
 public void clickMyAccount()
 {
 	lnkMyaccount.click();

@@ -1,13 +1,13 @@
-C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\baseTest\BaseClass.java
-C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\pageObjects\basePage.java
-C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\pageObjects\homePage.java
-C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\pageObjects\LoginPage.java
-C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\pageObjects\MyAccount.java
-C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\pageObjects\registerPage.java
-C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\testCases\TC001_AccountRegistrationTest.java
-C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\testCases\TC002_LoginTest.java
-C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\testCases\TC003_LoginDDT.java
-C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\testCases\TC003_Sample.java
-C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\utilities\DataProviders.java
-C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\utilities\ExcelUtility.java
-C:\Eclipse Java Practice\OPENCARTPROJECT\src\test\java\utilities\ExtentReportManager.java
+C:\SELENIUM_PROJECTS\OPENCARTPROJECT\src\test\java\baseTest\BaseClass.java
+C:\SELENIUM_PROJECTS\OPENCARTPROJECT\src\test\java\pageObjects\basePage.java
+C:\SELENIUM_PROJECTS\OPENCARTPROJECT\src\test\java\pageObjects\homePage.java
+C:\SELENIUM_PROJECTS\OPENCARTPROJECT\src\test\java\pageObjects\LoginPage.java
+C:\SELENIUM_PROJECTS\OPENCARTPROJECT\src\test\java\pageObjects\MyAccount.java
+C:\SELENIUM_PROJECTS\OPENCARTPROJECT\src\test\java\pageObjects\registerPage.java
+C:\SELENIUM_PROJECTS\OPENCARTPROJECT\src\test\java\testCases\TC001_AccountRegistrationTest.java
+C:\SELENIUM_PROJECTS\OPENCARTPROJECT\src\test\java\testCases\TC002_LoginTest.java
+C:\SELENIUM_PROJECTS\OPENCARTPROJECT\src\test\java\testCases\TC003_LoginDDT.java
+C:\SELENIUM_PROJECTS\OPENCARTPROJECT\src\test\java\testCases\TC003_Sample.java
+C:\SELENIUM_PROJECTS\OPENCARTPROJECT\src\test\java\utilities\DataProviders.java
+C:\SELENIUM_PROJECTS\OPENCARTPROJECT\src\test\java\utilities\ExcelUtility.java
+C:\SELENIUM_PROJECTS\OPENCARTPROJECT\src\test\java\utilities\ExtentReportManager.java

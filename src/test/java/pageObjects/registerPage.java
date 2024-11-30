@@ -11,8 +11,8 @@ public class registerPage extends basePage {
 			super(driver);
 		}
 		
-
-	@FindBy(xpath="//input[@id='input-firstname']") 
+		
+	@FindBy(xpath="//*[@id='input-firstname']") 
 	WebElement txtFirstname;
 
 	@FindBy(xpath="//input[@id='input-lastname']") 

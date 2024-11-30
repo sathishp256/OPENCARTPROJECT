@@ -9,7 +9,6 @@ import pageObjects.LoginPage;
 import pageObjects.MyAccount;
 import utilities.DataProviders;
 
-
 /*Data is valid  - login success - test pass  - logout
 Data is valid -- login failed - test fail
 
@@ -20,7 +19,7 @@ Data is invalid -- login failed - test pass
 public class TC003_LoginDDT extends BaseClass
 {
 
-	@Test(dataProvider="LoginData",dataProviderClass=DataProviders.class, groups= {"DDT"})
+	@Test(dataProvider="LoginData", dataProviderClass=DataProviders.class, groups= {"DDT"})
 	public void verify_loginDDT(String email, String password, String exp)
 	{
 		logger.info("**** Starting TC_003_LoginDDT *****");

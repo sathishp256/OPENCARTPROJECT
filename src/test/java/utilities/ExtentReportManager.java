@@ -102,11 +102,11 @@ public class ExtentReportManager implements ITestListener {
 		String pathOfExtentReport = System.getProperty("user.dir")+"\\reports\\"+repName;
 		File extentReport = new File(pathOfExtentReport);
 		
-		try {
+		/*try {
 			Desktop.getDesktop().browse(extentReport.toURI());
 		} catch (IOException e) {
 			e.printStackTrace();
-		}
+		}*/
 
 		
 		/*  try {
