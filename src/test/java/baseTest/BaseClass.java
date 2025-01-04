@@ -46,8 +46,6 @@ public class BaseClass {
 		
 		logger=LogManager.getLogger(this.getClass()); //log4j2 to load the loag4j2 file into project
 		
-		// **********  execution from REMOTE ENV **********
-		
 		if(p1.getProperty("execution_env").equalsIgnoreCase("remote")) {
 			
 		DesiredCapabilities cap=new DesiredCapabilities();

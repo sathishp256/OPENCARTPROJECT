@@ -1,53 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-30T14:25:44 IST" name="Master Suite" finished-at="2024-11-30T14:26:02 IST" duration-ms="18233">
+  <suite started-at="2024-12-21T10:33:43 IST" name="Master Suite" finished-at="2024-12-21T10:34:01 IST" duration-ms="18287">
     <groups>
       <group name="Master">
-        <method signature="TC001_AccountRegistrationTest.test_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@368247b9]" name="test_account_registration" class="testCases.TC001_AccountRegistrationTest"/>
-        <method signature="TC002_LoginTest.testLogin()[pri:0, instance:testCases.TC002_LoginTest@d86a6f]" name="testLogin" class="testCases.TC002_LoginTest"/>
+        <method signature="TC001_AccountRegistrationTest.test_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@3e694b3f]" name="test_account_registration" class="testCases.TC001_AccountRegistrationTest"/>
       </group> <!-- Master -->
-      <group name="Sanity">
-        <method signature="TC002_LoginTest.testLogin()[pri:0, instance:testCases.TC002_LoginTest@d86a6f]" name="testLogin" class="testCases.TC002_LoginTest"/>
-      </group> <!-- Sanity -->
       <group name="Regression">
-        <method signature="TC001_AccountRegistrationTest.test_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@368247b9]" name="test_account_registration" class="testCases.TC001_AccountRegistrationTest"/>
+        <method signature="TC001_AccountRegistrationTest.test_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@3e694b3f]" name="test_account_registration" class="testCases.TC001_AccountRegistrationTest"/>
       </group> <!-- Regression -->
     </groups>
-    <test started-at="2024-11-30T14:25:44 IST" name="Test1" finished-at="2024-11-30T14:26:02 IST" duration-ms="18233">
-      <class name="testCases.TC002_LoginTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginTest@d86a6f]" started-at="2024-11-30T14:25:56 IST" name="setUp" finished-at="2024-11-30T14:26:00 IST" duration-ms="3778" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[linux]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="testLogin()[pri:0, instance:testCases.TC002_LoginTest@d86a6f]" started-at="2024-11-30T14:26:00 IST" name="testLogin" finished-at="2024-11-30T14:26:02 IST" duration-ms="1957" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_LoginTest@d86a6f]" started-at="2024-11-30T14:26:02 IST" name="tearDown" finished-at="2024-11-30T14:26:02 IST" duration-ms="348" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC002_LoginTest -->
+    <test started-at="2024-12-21T10:33:43 IST" name="Test" finished-at="2024-12-21T10:34:01 IST" duration-ms="18287">
       <class name="testCases.TC001_AccountRegistrationTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_AccountRegistrationTest@368247b9]" started-at="2024-11-30T14:25:45 IST" name="setUp" finished-at="2024-11-30T14:25:52 IST" duration-ms="7765" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_AccountRegistrationTest@3e694b3f]" started-at="2024-12-21T10:33:44 IST" name="setUp" finished-at="2024-12-21T10:33:57 IST" duration-ms="13298" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[linux]]>
+                <![CDATA[windows]]>
               </value>
             </param>
             <param index="1">
@@ -59,15 +29,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@368247b9]" started-at="2024-11-30T14:25:52 IST" name="test_account_registration" finished-at="2024-11-30T14:25:56 IST" duration-ms="3325" status="PASS">
+        <test-method signature="test_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@3e694b3f]" started-at="2024-12-21T10:33:57 IST" name="test_account_registration" finished-at="2024-12-21T10:34:01 IST" duration-ms="3872" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_account_registration -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_AccountRegistrationTest@368247b9]" started-at="2024-11-30T14:25:56 IST" name="tearDown" finished-at="2024-11-30T14:25:56 IST" duration-ms="335" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_AccountRegistrationTest@3e694b3f]" started-at="2024-12-21T10:34:01 IST" name="tearDown" finished-at="2024-12-21T10:34:01 IST" duration-ms="475" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC001_AccountRegistrationTest -->
-    </test> <!-- Test1 -->
+    </test> <!-- Test -->
   </suite> <!-- Master Suite -->
 </testng-results>
