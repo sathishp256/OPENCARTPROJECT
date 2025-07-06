@@ -1,6 +1,13 @@
-2024-12-21 10:12:517 INFO  TC001_AccountRegistrationTest:18 - **** Starting TC001*****
-2024-12-21 10:12:987 INFO  TC001_AccountRegistrationTest:24 - **** Regisrtation page opened ********
-2024-12-21 10:12:02 INFO  TC001_AccountRegistrationTest:28 - **** Filling customer details *****
-2024-12-21 10:12:229 INFO  TC001_AccountRegistrationTest:39 - **** validating expected message *****
-2024-12-21 10:12:292 INFO  TC001_AccountRegistrationTest:44 - *** Login Suucess ***
-2024-12-21 10:12:298 INFO  TC001_AccountRegistrationTest:64 - **** Finsihed TC001 ***
+2025-07-05 18:07:360 INFO  TC001_AccountRegistrationTest:18 - **** Starting TC001*****
+2025-07-05 18:07:367 INFO  TC001_AccountRegistrationTest:24 - **** Regisrtation page opened ********
+2025-07-05 18:07:395 INFO  TC001_AccountRegistrationTest:28 - **** Filling customer details *****
+2025-07-05 18:07:412 INFO  TC001_AccountRegistrationTest:39 - **** validating expected message *****
+2025-07-05 18:07:465 INFO  TC001_AccountRegistrationTest:44 - *** Login Suucess ***
+2025-07-05 18:07:469 INFO  TC001_AccountRegistrationTest:64 - **** Finsihed TC001 ***
+2025-07-05 18:07:71 INFO  TC001_AccountRegistrationTest:73 - **** Starting TC001*****
+2025-07-05 18:07:97 INFO  TC001_AccountRegistrationTest:79 - **** Regisrtation page opened ********
+2025-07-05 18:07:104 INFO  TC001_AccountRegistrationTest:83 - **** Filling customer details *****
+2025-07-05 18:07:03 INFO  TC001_AccountRegistrationTest:94 - **** validating expected message *****
+2025-07-05 18:07:89 INFO  TC001_AccountRegistrationTest:99 - *** Login Suucess ***
+2025-07-05 18:07:93 INFO  TC001_AccountRegistrationTest:119 - **** Finsihed TC001 ***
+2025-07-05 18:07:126 INFO  TC001_AccountRegistrationTest:18 - **** Starting TC001*****
